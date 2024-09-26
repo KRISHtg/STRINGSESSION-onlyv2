@@ -19,7 +19,7 @@
 
 1. Click the button below to deploy your own instance on Heroku.
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devgaganin/Pyrogram-Session-Generator)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KRISHtg/Ok)
 
 2. Set the required environment variables:
     - `API_ID`
